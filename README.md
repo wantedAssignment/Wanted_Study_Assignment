@@ -1,5 +1,7 @@
 # [프리온보딩코스] 학생 선발 과제
 
+<img width="1434" alt="현재 상황" src="https://user-images.githubusercontent.com/60912642/125199415-11223a80-e2a1-11eb-81c9-8e43a89634c1.png">
+
 ### GNB 개발
 
 1. 네비게이션 바 개발
